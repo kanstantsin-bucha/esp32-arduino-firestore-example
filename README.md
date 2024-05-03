@@ -1,8 +1,10 @@
-# Project Esp32 Firestore Example
+# Project: Esp32 Firestore Example
 
 # Goal: connect to Firestore and create a Doc with the measurements (temp and humidity)
 
-# Starting
+# Library: firebase library for esp32 https://github.com/mobizt/FirebaseClient
+
+# Starting:
 
 * create a project in Firebase console
 * create email authentication in the Firebase console

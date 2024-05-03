@@ -32,7 +32,7 @@ void Network::loop() {
 }
 
 void WiFiEventConnected(arduino_event_id_t event, arduino_event_info_t info){
-  Serial.println("WIFI CONNECTED! BUT WAIT FOR THE LOCAL IP ADDR");
+  Serial.println("WIFI CONNECTED. WAITING FOR THE LOCAL IP ADDR");
 }
 
 void WiFiEventGotIP(arduino_event_id_t event, arduino_event_info_t info){
