@@ -10,6 +10,7 @@
 * create Firestore database in the Firebase console
 
 * update the build flags with you values for WiFi and Firestore/Firebase
+```
     -DWIFI_SSID='"ssid"'
     -DWIFI_PASSWORD='"pass"'
     -DFIREBASE_AUTH_DOMAIN='"domain.firebaseapp.com"'
@@ -17,6 +18,7 @@
     -DFIREBASE_PROJECT_ID='"project"'
     -DUSER_EMAIL='"user email"'
     -DUSER_PASSWORD='"user pass"'
+```
 
 # Troubleshooting
 
